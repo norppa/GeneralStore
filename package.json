@@ -1,0 +1,15 @@
+{
+  "name": "generalstore",
+  "version": "1.0.0",
+  "description": "A key-value based storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jari Haavisto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "level": "^6.0.1"
+  }
+}
